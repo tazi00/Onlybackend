@@ -1,0 +1,26 @@
+[
+  {
+    "id": "42424242",
+    "title": "this is my first post",
+    "desc": "lorem ipsini",
+    "postImg": [""],
+    "like": ["12", "244", "442", "232"],
+    "comments": ["133", "2323", "12", "232"],
+    "shares": 21,
+    "userID": "09876543",
+    "createdAt": "",
+    "updatedAt": ""
+  },
+  {
+    "id": "1114242",
+    "title": "this is my first post 2",
+    "desc": "lorem ipsini",
+    "postImg": [""],
+    "like": ["12", "244", "442", "232"],
+    "comments": ["133", "2323", "12", "232"],
+    "shares": 21,
+    "userID": "09876543",
+    "createdAt": "",
+    "updatedAt": ""
+  }
+]

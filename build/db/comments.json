@@ -1,0 +1,23 @@
+[
+  {
+    "id": "43353def",
+    "userId": "2",
+    "postId": "142424242",
+    "comment": "Great post!",
+    "createdAt": ""
+  },
+  {
+    "id": "433ww53def",
+    "userId": "1",
+    "postId": "142424242",
+    "comment": "Great post2!",
+    "createdAt": ""
+  },
+  {
+    "id": "4335311def",
+    "userId": "3",
+    "postId": "142424242",
+    "comment": "Great post!111",
+    "createdAt": ""
+  }
+]

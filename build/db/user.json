@@ -1,0 +1,32 @@
+[
+  {
+    "id": "433e6d0c-8e0a-4f5b-853d-da053f0cff5f",
+    "username": "boboiboy",
+    "email": "boboi@gmail.com",
+    "password": "$2b$10$1whJbRXNO4o5Xa1hiGBCMuXXMvulJSwN4MpjT06B7.Q9FNCcAniOS",
+    "bio": "",
+    "role": "user",
+    "post": [],
+    "groups": [],
+    "friends": [],
+    "createdAt": "2024-01-13T10:16:52.625Z",
+    "updatedAt": "2024-01-13T10:16:52.625Z",
+    "profileImage": null,
+    "coverImage": null
+  },
+  {
+    "id": "61f0208b-5f84-4040-b6af-f586977975da",
+    "username": "rickzi",
+    "email": "td0540245@gmail.com",
+    "password": "$2b$10$Ad5n1oUin.QEtn3.KYS8oOrSU033Kf.QeVv7JrFLWpkJjR9tIWIBW",
+    "bio": "",
+    "role": "user",
+    "post": [],
+    "groups": [],
+    "friends": [],
+    "createdAt": "2024-01-13T11:51:21.110Z",
+    "updatedAt": "2024-01-13T11:51:21.110Z",
+    "profileImage": null,
+    "coverImage": null
+  }
+]
